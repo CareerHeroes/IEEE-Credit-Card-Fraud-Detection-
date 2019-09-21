@@ -10,4 +10,4 @@ Download the repository and inspect the jupyter notebook. In addition, you can s
 For usage, you need to find out your kaggle username and api key. Those two things are in your kaggle.json file. Simply paste both inside the jupyter notebook.
 
 # 🛠 Built with
-This project was built with Python in a Jupyter Notebook for a Kaggle Challenge. You can see the kaggle challenge here.
+This project was built with Python in a Jupyter Notebook using Google Collab for a Kaggle Challenge. You can see the kaggle challenge <a href="https://www.kaggle.com/c/ieee-fraud-detection">here</a>.
